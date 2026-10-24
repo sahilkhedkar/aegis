@@ -1,0 +1,9 @@
+{"plugins": [],
+ "package": "aegis",
+ "options": {},
+ "name": "Aegis",
+ "isModule": false,
+ "importArts":
+ {"Aegis.Basic":
+  [["/home/sahil/Developer/Aegis/.lake/build/lib/lean/Aegis/Basic.olean"]]},
+ "dynlibs": []}

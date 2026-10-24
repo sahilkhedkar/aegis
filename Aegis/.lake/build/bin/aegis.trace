@@ -1,0 +1,23 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs": "5bfed162f82f7595",
+ "log":
+ [{"message":
+   ".> /home/sahil/.elan/toolchains/leanprover--lean4---v4.35.0/bin/clang -o /home/sahil/Developer/Aegis/.lake/build/bin/aegis @/home/sahil/Developer/Aegis/.lake/build/bin/aegis.rsp",
+   "level": "trace"}],
+ "inputs":
+ [["Main:linkInfo",
+   [["Module.moreLinkObjs",
+     [["/home/sahil/Developer/Aegis/.lake/build/ir/Main.c.o.export",
+       "1f7ef240f5f74525"],
+      ["/home/sahil/Developer/Aegis/.lake/build/ir/Aegis/Basic.c.o.export",
+       "33f4553a936388b3"],
+      ["/home/sahil/Developer/Aegis/.lake/build/ir/Aegis.c.o.export",
+       "743dcd2ec6f89308"]]],
+    ["Module.moreLinkLibs", "00000000000006bb"],
+    ["Module.moreLinkArgs: #[]", "00000000000006bb"]]],
+  ["LeanExe.exeOnlyLinkArgs: #[]", "00000000000006bb"],
+  ["Lean 4.35.0, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc",
+   "407ce514b71d5a10"],
+  ["x86_64-unknown-linux-gnu", "53a0e8937c307c28"]],
+ "depHash": "10ca74a90aa01967"}

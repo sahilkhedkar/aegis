@@ -1,0 +1,31 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["4393907592646052.olean"],
+  "m": false,
+  "i": "229b5f3982cc4b2e.ilean",
+  "c": "5c257debeb64e48e.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=/home/sahil/Developer/Aegis/.lake/build/lib/lean /home/sahil/.elan/toolchains/leanprover--lean4---v4.35.0/bin/lean /home/sahil/Developer/Aegis/Aegis.lean -o /home/sahil/Developer/Aegis/.lake/build/lib/lean/Aegis.olean -i /home/sahil/Developer/Aegis/.lake/build/lib/lean/Aegis.ilean -c /home/sahil/Developer/Aegis/.lake/build/ir/Aegis.c --setup /home/sahil/Developer/Aegis/.lake/build/ir/Aegis.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["deps",
+   [["aegis/Aegis:extraDep", [["@aegis:extraDep", "00000000000006bb"]]],
+    ["imports",
+     [["Aegis.Basic transitive imports (legacy)", "00000000000006bb"],
+      ["Aegis.Basic:importAllArts", "a71c6286063464b9"]]]]],
+  ["libs",
+   [["import dynlibs", "00000000000006bb"],
+    ["package external libraries", "00000000000006bb"],
+    ["module dynlibs", "00000000000006bb"],
+    ["module plugins", "00000000000006bb"]]],
+  ["Lean 4.35.0, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc",
+   "407ce514b71d5a10"],
+  ["/home/sahil/Developer/Aegis/Aegis.lean", "db1e527439af6f1f"],
+  ["options", "00000000000006bb"],
+  ["isModule: false", "feefd2a0d3a1847e"],
+  ["Module.name: Aegis", "b77f3088841e3dca"],
+  ["Package.id?: (some aegis)", "623bf361dfad8f0d"],
+  ["Module.leanArgs: #[]", "00000000000006bb"]],
+ "depHash": "7f691eddd52635dc"}

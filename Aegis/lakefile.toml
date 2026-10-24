@@ -1,0 +1,10 @@
+name = "aegis"
+version = "0.1.0"
+defaultTargets = ["aegis"]
+
+[[lean_lib]]
+name = "Aegis"
+
+[[lean_exe]]
+name = "aegis"
+root = "Main"
